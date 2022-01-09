@@ -11,7 +11,7 @@
 * With data binding enabled, the compiler creates references to all views in a <layout> that have an id, and gathers them in a Binding object.
 In your code, you create an instance of the binding object, and then reference views through the binding object with no extra overhead.
   
-## 1. [Enable data binding](https://github.com/YamamotoDesu/ViewBinding)
+## 1. Enable data binding
 ```gradle
   android {
     ...
