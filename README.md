@@ -21,11 +21,11 @@ In your code, you create an instance of the binding object, and then reference v
 ```
 
 ```kt
-      private lateinit var binding: ActivityMainBinding
-  
-      override fun onCreate(savedInstanceState: Bundle?) {
+
+    private lateinit var binding: ActivityMainBinding
+
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //setContentView(R.layout.activity_main)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
 
 
