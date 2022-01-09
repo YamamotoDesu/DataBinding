@@ -15,8 +15,8 @@ In your code, you create an instance of the binding object, and then reference v
 ```gradle
   android {
     ...
-    buildFeatures {
-        dataBinding true
+    dataBinding {
+        enabled = true
     }
 ```
 
