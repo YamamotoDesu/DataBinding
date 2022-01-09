@@ -1,4 +1,4 @@
-# [DataBindingUsage](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/a39e5191-f206-43a4-b293-3f1d6f6a6549)
+# [DataBinding](https://classroom.udacity.com/courses/ud9012/lessons/4f6d781c-3803-4cb9-b08b-8b5bcc318d1c/concepts/a39e5191-f206-43a4-b293-3f1d6f6a6549)
 
 <img width="348" src="https://github.com/YamamotoDesu/DataBindingUsage/blob/master/app/src/main/java/com/codewithkyo/aboutme/gif/InputNickname.gif"> 
 
