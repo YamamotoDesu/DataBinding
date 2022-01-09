@@ -1,3 +1,3 @@
 # DataBindingUsage
 
-<img width="348" src="https://github.com/YamamotoDesu/ScrollableList/blob/master/app/src/main/java/Gif/scrollableview.gif">
+<img width="348" src="https://github.com/YamamotoDesu/DataBindingUsage/blob/master/app/src/main/java/com/codewithkyo/aboutme/gif/InputNickname.gif">
